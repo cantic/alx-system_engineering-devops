@@ -1,2 +1,2 @@
 #!/bin/bash
-tall -l <iacta>>iacta
+tall -l <iacta >> iacta
